@@ -15,3 +15,7 @@ To access Timeline in your Unity project, go to **Window > Sequencing > Timeline
 Cinemachine is an official Unity package and can be enabled by going to **Window > Package Manager**. From there, you can install Cinemachine in the package list.
 
 ![](Images/InstallCinemachine.png)
+
+
+### Credits
+Particle Texture Assets by [Kenney](www.kenney.nl)
