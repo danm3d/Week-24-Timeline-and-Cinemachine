@@ -301,7 +301,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: aabd529803d263f4cb58a35d56ba8dce, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -321,3 +321,4 @@ MonoBehaviour:
   firingPoint: {fileID: 4160421006749860}
   gunParticles: {fileID: 198085712565885556, guid: c56ae93892333124e9567fe08acf8e86,
     type: 2}
+  speed: 5
